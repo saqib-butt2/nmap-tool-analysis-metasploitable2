@@ -1,8 +1,5 @@
 # Nmap Network Scanning — Tool Analysis Report
 
-> **Academic Assessment** | Penetration Testing and Ethical Hacking (CSI_7_PTE)
-> London South Bank University | Student ID: 4126385
-
 ---
 
 ## Overview
